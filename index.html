@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RGB Memory</title>
+<link rel="stylesheet" href="assets/css/style.css"></link>
+</head>
+<body>
+
+    <header>
+        <h1>RGB Memory</h1>
+    </header>
+
+    <div class="top-bar">
+        <div class="hud">
+            <div class="stat">LVL <span id="lvl-txt" class="accent-text">1</span></div>
+            <div class="stat">🪙 <span id="coin-txt">0</span></div>
+        </div>
+        <button class="theme-btn" onclick="toggleTheme()" id="theme-icon">🌙</button>
+    </div>
+
+    <div class="prog-wrap">
+        <div id="prog-bar" class="prog-bar"></div>
+    </div>
+
+    <div id="level-msg" class="level-msg">GREAT JOB!</div>
+
+    <main id="game-board"></main>
+
+    <button class="btn-main" onclick="openShop()">🛍️ Style Shop</button>
+
+    <!-- SHOP -->
+    <div id="shop" class="shop-overlay">
+        <div class="shop-title">Customize</div>
+        <p class="shop-subtitle">Tap to unlock or use</p>
+        
+        <div id="shop-list" class="shop-grid"></div>
+
+        <button class="btn-main btn-success" onclick="applyGreenStyle()">Green Style</button>
+
+        <button class="btn-main" onclick="closeShop()">Back to Game</button>
+        <button class="btn-small" onclick="resetSave()">Reset Progress</button>
+    </div>
+</body>
+<script src="assets/js/script.js"></script>
+</html>
