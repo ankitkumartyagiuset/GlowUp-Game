@@ -64,6 +64,42 @@ Your style = your vibe 💖
 
 ---
 
-## 📂 Project Structure
+---
 
-****
+## 🚀 How to Run
+
+1. Download or clone this repository  
+2. Open `index.html` in any modern browser  
+3. Start playing instantly 🎉  
+
+No setup required.
+
+---
+
+## 🌟 Future Improvements
+
+✨ Sound effects & background music  
+🎀 More themes and animations  
+🏆 Achievements & badges  
+📊 High score system  
+
+---
+
+## 💖 Designed With Care
+
+This game focuses on:
+- Comfort over competition  
+- Fun over pressure  
+- Clean UI & smooth UX  
+
+Perfect for casual play, learning, and frontend practice 🌱
+
+---
+
+## 📜 License
+
+Free to use for learning and personal projects.
+
+---
+
+🌈 **Play. Relax. Match. Repeat.**
