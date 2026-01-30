@@ -1,112 +1,69 @@
 # GlowUp-Game
 🌈 A cozy, pastel-themed browser game for child (11–17) focused on pattern puzzles, creativity, and stress-free fun. Built
-# 🎮 RGB Memory Game  
+# 🎮 RGB Memory — Stylish Memory Game
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="220"/>
-</p>
-
-<p align="center">
-✨ A stylish, stress-free RGB memory game with smooth animations, rewards, and customization ✨  
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20With-HTML%20%7C%20CSS%20%7C%20JavaScript-orange"/>
-  <img src="https://img.shields.io/badge/Responsive-Yes-success"/>
-  <img src="https://img.shields.io/badge/Dark%2FLight-Mode-blue"/>
-</p>
+🌈 **RGB Memory** is a modern, colorful, and stress-free **browser-based memory matching game** designed for fun, focus, and relaxation.  
+Built using **pure HTML, CSS, and JavaScript** with smooth animations, rewards, and full responsiveness.
 
 ---
 
-## 🌈 About the Game  
+## ✨ Features
 
-**RGB Memory** is a browser-based memory matching game designed to be  
-**fun, calming, and addictive** — perfect for relaxing while sharpening focus 🧠💖  
+🎯 **Progressive Levels**  
+🧠 Memory-boosting gameplay with increasing difficulty  
 
-- No pressure  
-- No violence  
-- Just smooth gameplay + good vibes  
+🎨 **RGB Styles & Customization**  
+🛍️ Unlock and apply colorful themes using in-game coins  
 
----
+🌗 **Dark & Light Mode**  
+One tap theme switch for comfort anytime  
 
-## ✨ Features  
+🪙 **Reward System**  
+Earn coins, floating rewards, and level-up celebrations  
 
-🎴 Emoji-based memory cards  
-📈 Progressive levels (difficulty increases slowly)  
-🪙 Coin reward system  
-🛍️ Style shop to unlock themes  
-🌙 Dark Mode / ☀️ Light Mode toggle  
-💾 Progress saved using LocalStorage  
-📱 Fully responsive (mobile + desktop)  
+💾 **Progress Saved Automatically**  
+Uses `localStorage` to remember your level, coins, and styles  
 
----
-
-## 🎮 Gameplay Preview  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
-</p>
-
-**How to Play:**
-1. Tap two cards to flip them  
-2. Match identical emojis  
-3. Earn coins for correct matches  
-4. Complete all pairs to level up  
-5. Use coins to unlock new styles 🎨  
+📱 **Fully Responsive Design**  
+Works smoothly on **desktop, tablet, and mobile browsers**
 
 ---
 
-## 🏆 Rewards & Progress  
+## 🕹️ How to Play
 
-<p align="center">
-  ⭐ ⭐ ⭐  
-</p>
+1️⃣ Click on cards to flip them  
+2️⃣ Match identical emoji pairs  
+3️⃣ Each match earns 🪙 coins  
+4️⃣ Complete all pairs to level up ✨  
+5️⃣ Use coins in the **Style Shop** to unlock new themes  
 
-- Each correct match gives coins  
-- Completing a level unlocks harder challenges  
-- Coins can be used in the **Style Shop**  
-- Progress is auto-saved — come back anytime  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="220"/>
-</p>
+No timer. No pressure. Just play 🌸
 
 ---
 
-## 🛍️ Style Shop  
+## 🛍️ Style Shop
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="250"/>
-</p>
+🎨 Customize your game look with different RGB themes  
+🔓 Unlock styles using earned coins  
+✅ Apply any owned style instantly  
 
-Unlock and apply:
-- Neon  
-- Pink  
-- Gold  
-- Ocean  
-- Galaxy  
-- Sunset  
-- Green  
-
-Each style changes the card design for a fresh feel ✨  
+Your style = your vibe 💖
 
 ---
 
-## 📱 Responsive Design  
+## 🧩 Tech Stack
 
-✔ Works smoothly on:
-- Mobile browsers  
-- Tablets  
-- Desktop screens  
+| Technology | Usage |
+|----------|------|
+| 🧱 HTML | Game structure |
+| 🎨 CSS | UI, themes, animations |
+| 🧠 JavaScript | Game logic & state |
+| 💾 localStorage | Save progress |
 
-✔ Touch-friendly UI  
-✔ Adaptive grid layout  
+🚫 No external libraries used
 
 ---
 
-## 🧠 Tech Stack  
+## 📂 Project Structure
 
-```text
-HTML5  – Structure  
-CSS3   – Animations, themes, responsiveness  
-JavaScript – Game logic, rewards, storage  
+****
