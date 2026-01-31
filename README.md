@@ -95,6 +95,11 @@ This game focuses on:
 Perfect for casual play, learning, and frontend practice 🌱
 
 ---
+## 🔗 Links
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://ankitkumartyagiuset.github.io/GlowUp-Game/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/ankitkumartyagiuset/GlowUp-Game)
+
 
 ## 📜 License
 
